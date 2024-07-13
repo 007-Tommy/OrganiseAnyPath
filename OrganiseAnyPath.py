@@ -1,6 +1,5 @@
 import os
 import shutil
-import sys
 
 directories = {
     "Images": {".png", ".jpg", ".webp", ".jpeg", ".svg", ".bmp", ".avif"},
